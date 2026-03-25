@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi 👋, I'm Sunkara Uma Lakshmi
+ Python Full Stack Developer
+ 
+ About Me :
+B.Tech student in Computer Science
+. Interested in Python Full Stack Development
+. Currently working on Survey Form Builder
+. Learning Django REST Framework & APIs
+. Looking to collaborate on Flask/Django Projects
+. Seeking guidance in building scalable web applications
+
+Projects:
+
+🔹 Survey Form Builder
+A web application to create and manage survey forms using Flask and SQLite
+https://github.com/UMALAKSHMI8/Survey-Form-Builder
 
 
-**UMALAKSHMI8/UMALAKSHMI8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
 
-Here are some ideas to get you started:
+Languages:
+Python Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+HTML, CSS, JavaScript
+
+Backend:
+Flask, Django
+
+Database:
+SQLite, MySQL
+
+Tools:
+Git, Postman
