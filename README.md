@@ -1,13 +1,8 @@
 Hi 👋, I'm Sunkara Uma Lakshmi
+
  Python Full Stack Developer
  
- About Me :
-B.Tech student in Computer Science
-. Interested in Python Full Stack Development
-. Currently working on Survey Form Builder
-. Learning Django REST Framework & APIs
-. Looking to collaborate on Flask/Django Projects
-. Seeking guidance in building scalable web applications
+ Passionate Python Full Stack Developer with a strong foundation in building web applications using Flask and Django. Skilled in developing scalable backend systems, working with databases, and creating user-friendly interfaces. Eager to learn new technologies and contribute to real-world projects.
 
 Projects:
 
